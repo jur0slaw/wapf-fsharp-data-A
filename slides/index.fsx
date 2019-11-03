@@ -12,9 +12,9 @@
 ### Functional Data Structures
 
     [lang=bash]
-    git clone https://github.com/manuxx/wapf-fsharp-data-clean.git
+    git clone https://github.com/manuxx/wapf-fsharp-data-A.git
 
-or download ZIP from [here](https://github.com/manuxx/wapf-fsharp-data-clean/archive/master.zip), then in **Command Prompt**:
+or download ZIP from [here](https://github.com/manuxx/wapf-fsharp-data-A/archive/master.zip), then in **Command Prompt**:
 
     [lang=bash]
     cd fsharp-workshops-data
